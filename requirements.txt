@@ -13,4 +13,4 @@ python-dateutil==2.5.2
 python-mimeparse==1.5.1
 rdflib==7.0.0
 six==1.10.0
-urllib3==2.0.6
+urllib3==2.0.7
